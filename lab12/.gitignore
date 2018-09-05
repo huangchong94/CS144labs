@@ -1,0 +1,12 @@
+ctcp
+*.o
+#*#
+*~
+.*
+!.gitignore
+reference
+tags
+Makefile
+README
+test.c
+*.csv

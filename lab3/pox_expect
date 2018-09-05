@@ -1,0 +1,3 @@
+#!/usr/bin/expect
+spawn screen -r pox
+expect "Ready."

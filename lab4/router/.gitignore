@@ -1,0 +1,7 @@
+*.o
+*.d
+tags
+sr
+*.pcap
+index.html
+*.log

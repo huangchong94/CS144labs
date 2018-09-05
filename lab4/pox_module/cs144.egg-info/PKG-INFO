@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: cs144
+Version: 0.0.0
+Summary: Network controller for Stanford CS144 Lab #3/5
+Home-page: http://cs144.stanford.edu
+Author: CS144 TA
+Author-email: huangty@stanford.edu
+License: GPL
+Description: Insert longer description here.
+              
+Keywords: stanford cs144
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Programming Language :: Python
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Internet
