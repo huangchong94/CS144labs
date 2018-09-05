@@ -2,4 +2,5 @@ stanford cs144 lab1-4我的解答。
 lab12用C实现简化版TCP协议
 lab3用C实现一个静态路由器，能根据静态路由表转发ethernet frame, 支持ping, traceroute
 lab4为lab3的静态路由器增加nat功能
+lab3/4的路由器源码实现在router文件夹里
 没有lab5，lab5无需写代码，但是需要stanford的账号才能做。
